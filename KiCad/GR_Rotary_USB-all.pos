@@ -1,0 +1,19 @@
+### Footprint positions - created on 2024-08-01T19:31:43-0400 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                               PosX       PosY       Rot  Side
+G***      LOGO             pcb_way_logo                                       23.9676    22.2211  180.0000  bottom
+C1        4.7uF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        38.3186     7.5868  -90.0000  top
+C2        100nF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        31.3082     6.6294   90.0000  top
+D1        3.6v_Zener       D_SMF                                              40.6046    11.6166  -90.0000  top
+D2        3.6v_Zener       D_SMF                                              40.6300    16.9887   90.0000  top
+F1        MF-FSMF050X      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder        42.9541     8.9496   90.0000  top
+J1        USB_B_Micro      USB_Micro-B_Amphenol_10103594-0001LF_Horizontal    47.8055    14.3725   90.0000  top
+J2        Rotary_Joystick  PinHeader_1x13_P2.54mm_Vertical                    10.1881     1.7106   90.0000  top
+J3        Access_Pins      PinHeader_1x04_P2.54mm_Vertical                    27.8538    17.3316  -90.0000  top
+R1        1.5K             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder        37.6982    10.6514    0.0000  top
+R2        66.5r            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder        37.6093    15.3250    0.0000  top
+R3        66.5r            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder        37.6982    12.7977    0.0000  top
+U1        ATtiny85-20PU    DIP-8_W7.62mm                                      27.8538    13.1660  -90.0000  top
+## End
